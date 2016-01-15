@@ -1,0 +1,14 @@
+plate:
+  GCAGA: "1"
+  TCGAA: "2"
+  AACAA: "3"
+
+row:
+  TAAGC: "A"
+  TGCAC: "B"
+
+col:
+  TGAAC: "1"
+  TCCTG: "2"
+  TATAA: "3"
+  ACAGG: "4"
